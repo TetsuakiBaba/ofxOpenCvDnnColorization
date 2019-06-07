@@ -1,4 +1,4 @@
-# ofxOpenCvDnnObjectDetection
+# ofxOpenCvDnnColorization
 
 ## Description
 ofxOpenCvDnnColorization is an addon for openframeworks.
@@ -27,7 +27,7 @@ void draw()
 
 
 ## Install
-### 1. Clone ofxOpenCvDnnObjectDetection to your of/addon directory
+### 1. Clone ofxOpenCvDnnColorization to your of/addon directory
     $ git clone https://github.com/TetsuakiBaba/ofxOpenCvDnnColorization.git
 ### 2. Download OpenCV.framework to ofxOpenCvDnnColorization/libs directory. 
     $ curl -O http://tetsuakibaba.jp/tmp/opencv2.framework.zip
