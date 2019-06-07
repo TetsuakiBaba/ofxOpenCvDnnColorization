@@ -53,6 +53,7 @@ Or you may build your own opencv.framework from opencv source. ( http://tetsuaki
 [TetsuakiBaba](https://github.com/TetsuakiBaba)
 
 ## Reference
-1. Model Zoo on OpenCV DNN Module README page: https://github.com/opencv/opencv/blob/master/samples/dnn/README.md
-2. How to implement OpenCV Yolo on Openframeworks: https://qiita.com/buchayaty/items/4020100f531c07418f38
+1. https://ws.tetsuakibaba.jp/doku.php?id=opencv_dnn:colorization
+2. http://richzhang.github.io/colorization
+3. https://github.com/richzhang/colorization
 
