@@ -3,7 +3,7 @@
 ## Description
 ofxOpenCvDnnColorization is an addon for openframeworks.
 
-OpenCV v.3.3.1 or upper includes dnn module ( https://docs.opencv.org/3.4.1/da/d9d/tutorial_dnn_yolo.html ) in their own package. Therefore I designed ofxOpenCvDnnColorization with OpenCV v.3.3.1 or upper version.
+OpenCV v.3.3.1 or upper includes some dnn modules in their own package. Therefore I designed ofxOpenCvDnnColorization with OpenCV v.3.3.1 or upper version.
 
 ![sample gif](sample.gif)
 
